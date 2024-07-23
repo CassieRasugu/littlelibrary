@@ -18,6 +18,8 @@ html{
   font-size: 10px;
 }
 body{
+  margin: 0;
+  height: 100%;
   font-size: 1.6rem;
   line-height: 1.7;
   font-family: 'Poppins', sans-serif;
